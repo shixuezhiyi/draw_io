@@ -1,9 +1,104 @@
-<mxfile host="app.diagrams.net" modified="2024-03-07T06:07:24.874Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.0.2" etag="2P7B027xA1dCJqhe4RuK" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-07T06:33:49.414Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="aVm-icY4u0fTRhzy95Bl" version="24.0.2" type="github">
   <diagram name="第 1 页" id="SyCCU0ZzsL677O3831hq">
-    <mxGraphModel>
+    <mxGraphModel dx="1195" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="DcN9ESU2zj3WshWU_Jpc-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="DcN9ESU2zj3WshWU_Jpc-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DcN9ESU2zj3WshWU_Jpc-3" value="输出" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DcN9ESU2zj3WshWU_Jpc-2">
+          <mxGeometry x="-0.1269" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DcN9ESU2zj3WshWU_Jpc-1" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#66B2FF;gradientDirection=north;" vertex="1" parent="1">
+          <mxGeometry x="110" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DcN9ESU2zj3WshWU_Jpc-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="420" as="sourcePoint" />
+            <mxPoint x="240" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DcN9ESU2zj3WshWU_Jpc-5" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;帧 N-1&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="160" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DcN9ESU2zj3WshWU_Jpc-6" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;帧 N&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="255" y="160" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DcN9ESU2zj3WshWU_Jpc-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="DcN9ESU2zj3WshWU_Jpc-7" target="DcN9ESU2zj3WshWU_Jpc-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DcN9ESU2zj3WshWU_Jpc-7" value="重投影&lt;div&gt;（采样）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientDirection=north;" vertex="1" parent="1">
+          <mxGeometry x="240" y="205" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="DcN9ESU2zj3WshWU_Jpc-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="DcN9ESU2zj3WshWU_Jpc-10" target="DcN9ESU2zj3WshWU_Jpc-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DcN9ESU2zj3WshWU_Jpc-10" value="采样点修正" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientDirection=north;" vertex="1" parent="1">
+          <mxGeometry x="374" y="205" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="DcN9ESU2zj3WshWU_Jpc-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="DcN9ESU2zj3WshWU_Jpc-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DcN9ESU2zj3WshWU_Jpc-17" value="输出" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DcN9ESU2zj3WshWU_Jpc-15">
+          <mxGeometry x="-0.2637" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DcN9ESU2zj3WshWU_Jpc-13" value="颜色累加&lt;div&gt;（混合）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientDirection=north;" vertex="1" parent="1">
+          <mxGeometry x="500" y="205" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="DcN9ESU2zj3WshWU_Jpc-18" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="420" as="sourcePoint" />
+            <mxPoint x="630" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DcN9ESU2zj3WshWU_Jpc-19" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;帧 N+1&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="640" y="160" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DcN9ESU2zj3WshWU_Jpc-20" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#66B2FF;gradientDirection=north;" vertex="1" parent="1">
+          <mxGeometry x="590" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DcN9ESU2zj3WshWU_Jpc-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="DcN9ESU2zj3WshWU_Jpc-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="298" y="380" />
+              <mxPoint x="280" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DcN9ESU2zj3WshWU_Jpc-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="340" as="sourcePoint" />
+            <mxPoint x="540" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DcN9ESU2zj3WshWU_Jpc-22" value="神经辐射场&lt;div&gt;NeRF&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="254" y="360" width="176" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DcN9ESU2zj3WshWU_Jpc-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="DcN9ESU2zj3WshWU_Jpc-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="350" />
+              <mxPoint x="410" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DcN9ESU2zj3WshWU_Jpc-32" value="重投影矩阵&lt;div&gt;Motion Vector&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="274" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DcN9ESU2zj3WshWU_Jpc-33" value="颜色采样" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="315" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
