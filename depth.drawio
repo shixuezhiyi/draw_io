@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-09T07:37:56.496Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="w_yfDaTITizboIZTQ33W" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-09T14:12:33.676Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="xM0y642c2M_r6W0Ob9IO" version="24.0.3" type="github">
   <diagram name="第 1 页" id="DBs_uagA86yhiNI4Le-6">
     <mxGraphModel dx="2514" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -211,8 +211,8 @@
             <mxPoint x="127.9960000000001" y="29.605999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NLQcRY4rkzoaRv2nJx3J-74" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;$$\mathcal{L}_\mathrm{contsi}$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="NLQcRY4rkzoaRv2nJx3J-100" vertex="1">
-          <mxGeometry x="19" y="39" width="260" height="50" as="geometry" />
+        <mxCell id="NLQcRY4rkzoaRv2nJx3J-74" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;$$\mathcal{L}_\mathrm{consi}$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="NLQcRY4rkzoaRv2nJx3J-100" vertex="1">
+          <mxGeometry x="24" y="39" width="250" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NLQcRY4rkzoaRv2nJx3J-75" value="帧间几何一致性约束:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="NLQcRY4rkzoaRv2nJx3J-100" vertex="1">
           <mxGeometry y="58" width="130" height="30" as="geometry" />
