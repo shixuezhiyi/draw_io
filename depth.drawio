@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-10T10:18:16.314Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="I-mDUGMq6l-ZspQtEuDX" version="24.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-10T10:19:33.713Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="sMqRp-isQfK2JUmXT9eA" version="24.0.3" type="github">
   <diagram name="第 1 页" id="DBs_uagA86yhiNI4Le-6">
     <mxGraphModel dx="2514" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -370,9 +370,6 @@
         </mxCell>
         <mxCell id="NLQcRY4rkzoaRv2nJx3J-60" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;$$\mathcal{L}_\mathrm{conti}$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="RzCh24jLRuggMk45HBgJ-21" vertex="1">
           <mxGeometry x="22" width="250" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="RzCh24jLRuggMk45HBgJ-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NLQcRY4rkzoaRv2nJx3J-60" target="NLQcRY4rkzoaRv2nJx3J-96">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
